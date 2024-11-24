@@ -1,6 +1,14 @@
 # Projeto Integrador SENAC EAD
 PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS ORIENTADO A OBJETOS
 
+# Integrantes do Projeto
+
+- Paulo Roberto Conter
+- Silmara Bilac Alves Guimaraes
+- Viviane Fernandes Campos
+- Yasmin Brandao Dos Santos
+
+
 # Sistema de Gestão Universitária
 
 O **Projeto Sistema de Gestão Universitária** visa desenvolver uma solução tecnológica que facilite a administração dos dados de uma grande universidade. O sistema permite fazer cadastros, gerenciamento de usuários e entidades como alunos, professores, pessoas jurídicas e fornecedores, simplificando as operações acadêmicas e administrativas da instituição.
